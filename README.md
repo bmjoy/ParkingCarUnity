@@ -27,11 +27,11 @@ Project at university, using AI, a* algorithm to automatically find way or path 
 > 8. How to get input from computer keyboard on runtime.
 
 ## References
-> # Highly recommend try this first, it just 7 hour to know 80% about Unity, Others thing you shouuld do after watch this video it just practice to get pro at Unity :)#[Basic about Unity programming in 7 hour](https://www.youtube.com/watch?v=gB1F9G0JXOo&list=LL&index=6&t=339s)
-> [Unity Library Documentation](https://docs.unity3d.com/Manual/index.html)
-> [How to use NavMesh 2D tutorial 1](https://www.youtube.com/watch?v=SDfEytEjb5o)
-> [How to use NavMesh 2D tutorial 2](https://www.youtube.com/watch?v=FK-Hn69X7P4)
-> [How to use NavMesh 3D tutorial 1](https://www.youtube.com/watch?v=CHV1ymlw-P8)
-> [How to use NavMesh 3D tutorial 2](https://www.youtube.com/watch?v=FkLJ45Pt-mY)
-> [How to use NavMesh 3D tutorial 2](https://www.youtube.com/watch?v=blPglabGueM&list=RDCMUCYbK_tjZ2OrIZFBvU6CCMiA&index=2)
+> - ## Highly recommend try this first, it just 7 hour to know 80% about Unity, Others thing you shouuld do after watch this video it just practice to get pro at Unity :)##[Basic about Unity programming in 7 hour](https://www.youtube.com/watch?v=gB1F9G0JXOo&list=LL&index=6&t=339s)
+> - [Unity Library Documentation](https://docs.unity3d.com/Manual/index.html)
+> - [How to use NavMesh 2D tutorial 1](https://www.youtube.com/watch?v=SDfEytEjb5o)
+> - [How to use NavMesh 2D tutorial 2](https://www.youtube.com/watch?v=FK-Hn69X7P4)
+> - [How to use NavMesh 3D tutorial 1](https://www.youtube.com/watch?v=CHV1ymlw-P8)
+> - [How to use NavMesh 3D tutorial 2](https://www.youtube.com/watch?v=FkLJ45Pt-mY)
+> - [How to use NavMesh 3D tutorial 2](https://www.youtube.com/watch?v=blPglabGueM&list=RDCMUCYbK_tjZ2OrIZFBvU6CCMiA&index=2)
 
