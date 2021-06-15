@@ -1,7 +1,7 @@
 # ParkingCarUnity
 Project at university, using AI, a* algorithm to automatically find way or path to control parking car.
 
-##FAQ
+## FAQ
 > ## Your first time clone this project? How to using this project in Unity?
 > 1. Clone and open this project in Unity by add /RedHotSweetPepper folder of project into Unity Hub with 2019.4.28f1 Unity version installed
 > 2. Chose "/prefabs folder is located in /assets folder" in project folder structure management in unity
@@ -27,7 +27,7 @@ Project at university, using AI, a* algorithm to automatically find way or path 
 > 8. How to get input from computer keyboard on runtime.
 
 ## References
-> - ## Highly recommend try this first, it just 7 hour to know 80% about Unity, Others thing you shouuld do after watch this video it just practice to get pro at Unity :)##[Basic about Unity programming in 7 hour](https://www.youtube.com/watch?v=gB1F9G0JXOo&list=LL&index=6&t=339s)
+> - Highly recommend try this first, it just 7 hour to know 80% about Unity, Others thing you shouuld do after watch this video it just practice to get pro at Unity :): [Basic about Unity programming in 7 hour](https://www.youtube.com/watch?v=gB1F9G0JXOo&list=LL&index=6&t=339s)
 > - [Unity Library Documentation](https://docs.unity3d.com/Manual/index.html)
 > - [How to use NavMesh 2D tutorial 1](https://www.youtube.com/watch?v=SDfEytEjb5o)
 > - [How to use NavMesh 2D tutorial 2](https://www.youtube.com/watch?v=FK-Hn69X7P4)
