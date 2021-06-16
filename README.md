@@ -9,6 +9,14 @@ Project at university, using AI, a* algorithm to automatically find way or path 
 > 4. Find Car 2 Object and drag into scene layout
 > 5. Add Car 2 Object as element 0 for Spawner Object in scene layout, do this thing by select Spawer Object on the scene sctructure your will see all components of Spawer Object, at Spawner Script field, set size equal 1 if not, then drag Car 2 Object from scene sctructure or in /prefabs folder into Element 0 of Spawner Script field
 > 6. Run project
+> What this video tutorial:
+<h3 align="center">
+  <img width="200px" src="https://user-images.githubusercontent.com/55421234/122251554-ceb14c00-cef4-11eb-8f35-bdaea02b152b.mp4">
+</h3>
+> Class diagram:
+<h3 align="center">
+  <img width="200px" src="https://user-images.githubusercontent.com/55421234/122251821-0f10ca00-cef5-11eb-9dbd-a565983bf974.png">
+</h3>
 
 > ## Can i use multiple car object with others driving behavior?
 > - Yes.
